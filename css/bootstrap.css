@@ -6253,6 +6253,8 @@ th: 0;
 }
 .carousel {
   position: relative;
+  width:70%;
+  float:right;
 }
 .carousel-inner {
   position: relative;
