@@ -1,9 +1,6 @@
 ﻿#container-1 {
-	background-color:black;
-	margin:2% 0% 2% 0%;
-	padding: 2% 5% 2% 5%;
-	border-left-style:ridge;
-
+	background-image:url('../Image/Wedding ring.jpg');
+	position:fixed;
 }
 
 #container-2 {
@@ -23,13 +20,35 @@
 	background-color:#CCCCCC;
 	margin: 5% 5% 5% 5%;
 	padding: 2% 2% 2% 2%;
-	color:white;
-	font-family:Arial, Helvetica, sans-serif;
+	color:black;
+	font-family:"Arial Narrow";
+	font-style:oblique;
 }
 
 #box-2 {
-	background-color:#FFFFCE;
-	text-align:justify;
-	margin: 5% 5% 5% 5%;
-	padding:inherit;
+	background-color:#FFCCFF;
+	text-align:center;
+	margin: 5% 20% 5% 20%;
+	padding:5%;
+	float:inherit;
+}
+
+#arrange-1 {
+	text-align:center;
+	font-style:oblique;
+	font-family:"Goudy Old Style";
+	color:#B00000;
+}
+
+#arrange-2 {
+	background-color:#DFFFFF;
+	text-align:center;
+	padding-top:2%;
+	padding-bottom:2%;
+}
+
+#section-1 {
+	padding-top:50px;
+	height:500px;
+	position:relative;
 }
